@@ -58,7 +58,7 @@ export const QUIZ_CONFIG = {
   description: "Test your knowledge of RFN surface combatant silhouettes",
   themeColor: 'pink' as const,  // Available colors: 'blue' | 'green' | 'sky' | 'red' | 'purple' | 'orange' | 'pink'
   quiz_name: "rfn_sc", // Unique identifier for the quiz, used in database
-  startScreenImage: "/images/quiz-start.jpg" // Optional: Image shown on start screen
+  startScreenImage: "/images/quiz-start.png" // Optional: Image shown on start screen
 };
 
 // Example questions - Replace with your own
